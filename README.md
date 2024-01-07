@@ -9,7 +9,7 @@ OS Package (-Preinstalled)
 - curl (Linux) (Not on Github)
 - sudo (Linux) (Not on Github)
 - Ngrok (Windows 10-11) (Not on Github)
-- Lilyhosting PX11OS (Windows/Linux) (Linux in Python) (cd /Lilyhostingpip/ && python3 px11os.py) (On github [this repo], By Katy)
+- Lilyhosting PX11OS (Windows/Linux) (Linux in Python) (cd /Lilyhostingpip/ && python3 px11os.py) (On github [this repo], By Katy | Note: it is not uploaded as of now)
 
 
 
